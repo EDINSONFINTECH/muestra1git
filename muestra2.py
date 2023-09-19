@@ -1,3 +1,3 @@
-# Aqui se muestra otro Archivo
+# Aqui se muestra otro Archivo nuevo
 otro_saludo = "Aqui muestro como Avanzo"
 print("Esto muestra el Avance")
